@@ -1,0 +1,27 @@
+{
+  "name": "crud_nodejs",
+  "version": "1.0.0",
+  "description": "git clone https://github.com/tamars07/api_source_niie.git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.2",
+    "morgan": "^1.10.0",
+    "request": "^2.88.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tamars07/api_source_niie.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tamars07/api_source_niie/issues"
+  },
+  "homepage": "https://github.com/tamars07/api_source_niie#readme",
+  "devDependencies": {}
+}
